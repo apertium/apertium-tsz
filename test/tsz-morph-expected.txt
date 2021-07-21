@@ -1,0 +1,270 @@
+[-puh33DShvZp#0] ^tumínani/tumína<n><sg><obj>$
+[/-puh33DShvZp]
+[0O_PE2zGHZSE#0] ^piréxaka/piré<v><tv><pres><dur><p1>/piré<v><tv><pres><dur><p2>$
+[/0O_PE2zGHZSE]
+[0z6rEcFENboE#0] ^rámani/ráma<n><sg><obj>$
+[/0z6rEcFENboE]
+[1-GgnCDbWVru#0] ^piréxapti/piré<v><tv><past><dur><p3><sg>$
+[/1-GgnCDbWVru]
+[1QzWrmZsbrg-#0] ^ayxáduni/ayxádu<n><sg><obj>$
+[/1QzWrmZsbrg-]
+[1lkuX7DccTzS#0] ^xurámutini/xurámuti<n><sg><obj>$
+[/1lkuX7DccTzS]
+[2CpPmK8sXGKT#0] ^wíchuni/wíchu<n><sg><obj>$
+[/2CpPmK8sXGKT]
+[3-5cp8YwSUXV#0] ^piréska/piré<v><tv><pres><perf><p1>/piré<v><tv><pres><perf><p2>$
+[/3-5cp8YwSUXV]
+[32-rLBXI79CD#0] ^kurúchani/kurúcha<n><sg><obj>$
+[/32-rLBXI79CD]
+[392GyjxZEurj#0] ^piréxamki/piré<v><tv><pres><incp><itg>$
+[/392GyjxZEurj]
+[3D5R7rqEz-RH#0] ^kwárturhu/kwártu<n><sg><loc>$
+[/3D5R7rqEz-RH]
+[3KiE7BTJwnbw#0] ^kurúcha/kurúcha<n><sg>$
+[/3KiE7BTJwnbw]
+[4MLknQTCpn63#0] ^piréa/*piréa$
+[/4MLknQTCpn63]
+[4wuW_AnJgoxN#0] ^niati/*niati$
+[/4wuW_AnJgoxN]
+[6Dz1N0qFIbf9#0] ^ima/ima<det>/imá<det>$
+[/6Dz1N0qFIbf9]
+[6XeQ1hNV9T5B#0] ^segírispti/segíri<v><iv><past><perf><p3><sg>$
+[/6XeQ1hNV9T5B]
+[6jtMBnyzIYyl#0] ^piréxati/piré<v><tv><pres><dur><p3><sg>$
+[/6jtMBnyzIYyl]
+[7_8hvDWg9AMc#0] ^xatsíkwarhikwani/xatsíkwarhikwa<n><sg><obj>$
+[/7_8hvDWg9AMc]
+[7hv2LfLkR3Uy#0] ^eróxakari/*eróxakari$
+[/7hv2LfLkR3Uy]
+[81tvkuOZbQFT#0] ^k’amárasti/k’amára<v><tv><pres><perf><p3><sg>$
+[/81tvkuOZbQFT]
+[8w8Lu13OxnWU#0] ^xinkóni/xinkóni<pr>$
+[/8w8Lu13OxnWU]
+[9NeZVelp6UyW#0] ^charhákuni/charháku<n><sg><obj>$
+[/9NeZVelp6UyW]
+[9jGuYFN6td-L#0] ^níjtu/níjtu<det>$
+[/9jGuYFN6td-L]
+[ABt672uqeRE-#0] ^anátapuicha/*anátapuicha$
+[/ABt672uqeRE-]
+[Ahmg-mJ9CqVB#0] ^kwerátaxati/kweráta<v><iv><pres><dur><p3><sg>$
+[/Ahmg-mJ9CqVB]
+[An6WyghK3e7b#0] ^pirésini/*pirésini$
+[/An6WyghK3e7b]
+[BEU-7O2CINCX#0] ^xwásti/xwá<v><tv><pres><perf><p3><sg>$
+[/BEU-7O2CINCX]
+[BRrx4XJyscaa#0] ^piréspti/piré<v><tv><past><perf><p3><sg>$
+[/BRrx4XJyscaa]
+[Bzfio9UcxHSY#0] ^t’iréaka/t’iré<v><tv><fut><p1>/t’iré<v><tv><fut><p2>$
+[/Bzfio9UcxHSY]
+[CW5a1wCsmHn6#0] ^pirépirini/piré<v><tv><cni><itg>$
+[/CW5a1wCsmHn6]
+[DGyohIdcTKdR#0] ^maríkwani/maríkwa<n><sg><obj>$
+[/DGyohIdcTKdR]
+[DbzrmcIUC-8h#0] ^yurhírini/yurhíri<n><sg><obj>$
+[/DbzrmcIUC-8h]
+[DscU6SIRi2nx#0] ^tsakápuni/tsakápu<n><sg><obj>$
+[/DscU6SIRi2nx]
+[E1K_ogI-hb6H#0] ^itsini/itsi<n><sg><obj>$
+[/E1K_ogI-hb6H]
+[ET2qPKETGikD#0] ^pyásti/pyá<v><tv><pres><perf><p3><sg>$
+[/ET2qPKETGikD]
+[E_Yj9nx_qyPZ#0] ^t’iréati/t’iré<v><tv><fut><p3><sg>$
+[/E_Yj9nx_qyPZ]
+[F4wKHk1ImP2b#0] ^pirépiringa/piré<v><tv><cni><p1>/piré<v><tv><cni><p2>$
+[/F4wKHk1ImP2b]
+[F5j2LbZcIsec#0] ^piréspka/piré<v><tv><past><perf><p1>/piré<v><tv><past><perf><p2>$
+[/F5j2LbZcIsec]
+[FCdqK_RXQBjU#0] ^pwértani/pwérta<n><sg><obj>$
+[/FCdqK_RXQBjU]
+[FsoG6uFPhvrD#0] ^Acháati/acháati<n><sg>$
+[/FsoG6uFPhvrD]
+[G8-9P6ErELhP#0] ^nómeni/nómeni<adj>$
+[/G8-9P6ErELhP]
+[GkVT4D1mDVp1#0] ^jimbo/jimbo<pr>$
+[/GkVT4D1mDVp1]
+[Gu_57TBIdC_4#0] ^máteru/máteru<adj>$
+[/Gu_57TBIdC_4]
+[IDDiiuCoLace#0] ^táarhu/táa<n><sg><loc>$
+[/IDDiiuCoLace]
+[J8yWro2fZOvY#0] ^sapíni/sapí<n><sg><obj>$
+[/J8yWro2fZOvY]
+[K-j-5q6N2ZZv#0] ^pimbinhasï/pimbinhasï<adj>$
+[/K-j-5q6N2ZZv]
+[KX7ex6Y1_RRT#0] ^piréspi/piré<v><tv><past><perf><itg>$
+[/KX7ex6Y1_RRT]
+[KXLWDijY4QJk#0] ^ganáduni/ganádu<n><sg><obj>$
+[/KXLWDijY4QJk]
+[L3xw9GDPm4LZ#0] ^pirekuani/*pirekuani$
+[/L3xw9GDPm4LZ]
+[LYY148syhWUI#0] ^piréxamamga/*piréxamamga$
+[/LYY148syhWUI]
+[M2kZHcS-Z4UY#0] ^ikíasti/ikía<v><iv><pres><perf><p3><sg>$
+[/M2kZHcS-Z4UY]
+[MABsDQszSznR#0] ^warini/wari<n><sg><obj>$
+[/MABsDQszSznR]
+[MGhWLAuoTqga#0] ^xí/xí<prn><sg>$
+[/MGhWLAuoTqga]
+[N9_9i4JXGqIB#0] ^xanósti/xanó<v><iv><pres><perf><p3><sg>$
+[/N9_9i4JXGqIB]
+[O1tUqG7H2z80#0] ^kuchíyuni/kuchíyu<n><sg><obj>$
+[/O1tUqG7H2z80]
+[ODB9bHDljg15#0] ^intsikurhiaka/intsikurhi<v><tv><fut><p1>/intsikurhi<v><tv><fut><p2>$
+[/ODB9bHDljg15]
+[OVBJlp3xZjyl#0] ^eshéska/eshé<v><tv><pres><perf><p1>/eshé<v><tv><pres><perf><p2>$
+[/OVBJlp3xZjyl]
+[PrscmbErd0Y-#0] ^ka/ka<det>$
+[/PrscmbErd0Y-]
+[Q8_uuBhJv9QY#0] ^kabáyuni/kabáyu<n><sg><obj>$
+[/Q8_uuBhJv9QY]
+[QKSp_l_VhhsM#0] ^ísï/ísï<det>$
+[/QKSp_l_VhhsM]
+[QPhuacZRUjSB#0] ^pirésti/piré<v><tv><pres><perf><p3><sg>$
+[/QPhuacZRUjSB]
+[QTgv2tDGNuzQ#0] ^anátapurhu/anátapu<n><sg><loc>$
+[/QTgv2tDGNuzQ]
+[QnmOjLRSQrrO#0] ^ewáskani/ewá<v><tv><pres><perf><p1><sg>$
+[/QnmOjLRSQrrO]
+[R6mG-xOJaOw_#0] ^kw’ixaka/kw’i<v><iv><pres><dur><p1>/kw’i<v><iv><pres><dur><p2>$
+[/R6mG-xOJaOw_]
+[RnkKPRTiercV#0] ^piréxaki/piré<v><tv><pres><dur><itg>$
+[/RnkKPRTiercV]
+[Ruyw0NeL5aj4#0] ^kurhústi/kurhú<v><tv><pres><perf><p3><sg>$
+[/Ruyw0NeL5aj4]
+[S1vf8z2-erxW#0] ^t’iréspka/t’iré<v><tv><past><perf><p1>/t’iré<v><tv><past><perf><p2>$
+[/S1vf8z2-erxW]
+[SBB5QYn_x4zu#0] ^kwánitaska/kwánita<v><iv><pres><perf><p1>/kwánita<v><iv><pres><perf><p2>$
+[/SBB5QYn_x4zu]
+[SCaWpoTugCvc#0] ^piréski/piré<v><tv><pres><perf><itg>$
+[/SCaWpoTugCvc]
+[SVTvpszPW6GY#0] ^Atásti/*Atásti$
+[/SVTvpszPW6GY]
+[SZUdiFywu0Xy#0] ^t’iréxaki/t’iré<v><tv><pres><dur><itg>$
+[/SZUdiFywu0Xy]
+[S_-3wVt2H0uA#0] ^jurhiatani/jurhiata<n><sg><obj>$
+[/S_-3wVt2H0uA]
+[SdT0gNunWBJQ#0] ^eshésti/eshé<v><tv><pres><perf><p3><sg>$
+[/SdT0gNunWBJQ]
+[Sg-8pBTz8mZU#0] ^máru/máru<det>$
+[/Sg-8pBTz8mZU]
+[TWslULTxQk6L#0] ^uarhijka/uarhij<v><iv><pres><p1>/uarhij<v><iv><pres><p2>$
+[/TWslULTxQk6L]
+[TtTWuc280wWQ#0] ^piréxamka/piré<v><tv><pres><incp><p1>/piré<v><tv><pres><incp><p2>$
+[/TtTWuc280wWQ]
+[U-ougHX62yF0#0] ^piréskani/piré<v><tv><pres><perf><p1><sg>$
+[/U-ougHX62yF0]
+[UcStKaxAZ_9w#0] ^María/María<np><sg>$
+[/UcStKaxAZ_9w]
+[UqY-pZ-6mLUM#0] ^k’wanírasti/k’waníra<v><tv><pres><perf><p3><sg>$
+[/UqY-pZ-6mLUM]
+[V7RjzdTmlVfQ#0] ^íntskuska/íntsku<v><tv><pres><perf><p1>/íntsku<v><tv><pres><perf><p2>$
+[/V7RjzdTmlVfQ]
+[VlDG3xf-QJmD#0] ^jima/jima<det>$
+[/VlDG3xf-QJmD]
+[XVDFvIpUEtR0#0] ^tsúntsuni/tsúntsu<n><sg><obj>$
+[/XVDFvIpUEtR0]
+[Xd5uyv_GxuvW#0] ^xanóski/xanó<v><iv><pres><perf><itg>$
+[/Xd5uyv_GxuvW]
+[YfnD1K5ezA4z#0] ^kwakásti/kwaká<v><tv><pres><perf><p3><sg>$
+[/YfnD1K5ezA4z]
+[ZJTcMnNXwx2V#0] ^kúchini/kúchi<n><sg><obj>$
+[/ZJTcMnNXwx2V]
+[_GHzzU4gOOWa#0] ^acháatini/acháati<n><sg><obj>$
+[/_GHzzU4gOOWa]
+[_umK0Xax_JPM#0] ^tsírini/tsíri<n><sg><obj>$
+[/_umK0Xax_JPM]
+[aSIlH4sY1blw#0] ^kurú/*kurú$
+[/aSIlH4sY1blw]
+[b4bZoWO2W26j#0] ^eróxaka/eró<v><iv><pres><dur><p1>/eró<v><iv><pres><dur><p2>$
+[/b4bZoWO2W26j]
+[b9rkGrfbPX2e#0] ^eróxatiksï/*eróxatiksï$
+[/b9rkGrfbPX2e]
+[bVyKOzDfzBA7#0] ^wariecha/wari<n><pl>$
+[/bVyKOzDfzBA7]
+[baU7pwm8IEWe#0] ^piréxamti/piré<v><tv><pres><incp><p3><sg>$
+[/baU7pwm8IEWe]
+[d5WOCUjpvKpy#0] ^piréxamampti/*piréxamampti$
+[/d5WOCUjpvKpy]
+[dZBFixlyl0EP#0] ^Atáska/*Atáska$
+[/dZBFixlyl0EP]
+[egTz-ok88d3f#0] ^atárant’asti/atárant’a<v><tv><pres><perf><p3><sg>$
+[/egTz-ok88d3f]
+[fYkFmVSfWWBb#0] ^pirépirindi/*pirépirindi$
+[/fYkFmVSfWWBb]
+[fnSqz_JmC5-1#0] ^eróxakani/eró<v><iv><pres><dur><p1><sg>$
+[/fnSqz_JmC5-1]
+[fqfwLflLiBuF#0] ^pójpeni/*pójpeni$
+[/fqfwLflLiBuF]
+[ftMzYSwIquso#0] ^doktórini/doktóri<n><sg><obj>$
+[/ftMzYSwIquso]
+[g3M9bnB0GSdw#0] ^káxani/káxa<n><sg><obj>$
+[/g3M9bnB0GSdw]
+[gXznWVIaKqqo#0] ^piréaka/piré<v><tv><fut><p1>/piré<v><tv><fut><p2>$
+[/gXznWVIaKqqo]
+[g_wfLWdE6-tx#0] ^korrálini/korráli<n><sg><obj>$
+[/g_wfLWdE6-tx]
+[gbpwQOsFZw3i#0] ^wari/wari<n><sg>$
+[/gbpwQOsFZw3i]
+[gjVhqOMlDHAC#0] ^jwáspti/jwá<v><tv><past><perf><p3><sg>$
+[/gjVhqOMlDHAC]
+[gomHWOs1ibfx#0] ^imá/imá<det>$
+[/gomHWOs1ibfx]
+[gt2n1iA_fUfN#0] ^xanóskani/xanó<v><iv><pres><perf><p1><sg>$
+[/gt2n1iA_fUfN]
+[hk1jhXNI4GAd#0] ^piréxapi/piré<v><tv><past><dur><itg>$
+[/hk1jhXNI4GAd]
+[iCCC9qFCSn6j#0] ^pirésiamti/*pirésiamti$
+[/iCCC9qFCSn6j]
+[jxgOAPcgmWs2#0] ^piréri/piré<v><tv><pres><p2><sg>$
+[/jxgOAPcgmWs2]
+[k82iRgjx69DU#0] ^Rósa/Rósa<np><sg>$
+[/k82iRgjx69DU]
+[lsj_hCh3DY_1#0] ^kachúkusti/kachúku<v><tv><pres><perf><p3><sg>$
+[/lsj_hCh3DY_1]
+[lsveb4vFmWHj#0] ^piréxamambi/piré<v><tv><past><incp><itg>$
+[/lsveb4vFmWHj]
+[lz2yRIR83EPG#0] ^Maríani/María<np><sg><obj>/María<n><sg><obj>$
+[/lz2yRIR83EPG]
+[mhWXz-kOFPTi#0] ^anátapuni/anátapu<n><sg><obj>$
+[/mhWXz-kOFPTi]
+[n7T-OjY2xByp#0] ^piréati/piré<v><tv><fut><p3><sg>$
+[/n7T-OjY2xByp]
+[oM9skH_W9Wlc#0] ^pirésiambi/*pirésiambi$
+[/oM9skH_W9Wlc]
+[oUU_OA-p8aCO#0] ^para/para<pr>$
+[/oUU_OA-p8aCO]
+[ozMVIjjcAhTC#0] ^Xwánu/Xwánu<np><sg>$
+[/ozMVIjjcAhTC]
+[pCLFS2Xo-ESD#0] ^eróxakatsï/*eróxakatsï$
+[/pCLFS2Xo-ESD]
+[pPpJRckydQRo#0] ^tumpíni/tumpí<n><sg><obj>$
+[/pPpJRckydQRo]
+[pSSozgBk0Vij#0] ^wántikusti/wántiku<v><tv><pres><perf><p3><sg>$
+[/pSSozgBk0Vij]
+[reSM3p65Edc3#0] ^anátapu/*anátapu$
+[/reSM3p65Edc3]
+[sQ2a2L28ONvW#0] ^xanóska/xanó<v><iv><pres><perf><p1>/xanó<v><iv><pres><perf><p2>$
+[/sQ2a2L28ONvW]
+[sZ6N2N4QGqOq#0] ^piréxapka/piré<v><tv><past><dur><p1>/piré<v><tv><past><dur><p2>$
+[/sZ6N2N4QGqOq]
+[seqog0gE56p8#0] ^wátsïni/wátsï<n><sg><obj>$
+[/seqog0gE56p8]
+[thCWbUE-dLAZ#0] ^T’u/t’u<prn><sg>$
+[/thCWbUE-dLAZ]
+[uMpG9TVp1hKk#0] ^kw’isti/kw’i<v><iv><pres><perf><p3><sg>$
+[/uMpG9TVp1hKk]
+[uwiz4ImO4xMz#0] ^pirésindi/*pirésindi$
+[/uwiz4ImO4xMz]
+[uy7BDWn9ZBl3#0] ^xámaaka/xáma<v><tv><fut><p1>/xáma<v><tv><fut><p2>$
+[/uy7BDWn9ZBl3]
+[vrI_QFcAtd07#0] ^engaksï/enga<v><iv><pres><p1><pl>/enga<v><iv><pres><p3><pl>$
+[/vrI_QFcAtd07]
+[wy0W_d8iN3B-#0] ^eróxakaksï/*eróxakaksï$
+[/wy0W_d8iN3B-]
+[x80iHzHADADD#0] ^pirésiamka/*pirésiamka$
+[/x80iHzHADADD]
+[xDGxp3nNb2VL#0] ^xupáskani/*xupáskani$
+[/xDGxp3nNb2VL]
+[zi9n5LOrm-FQ#0] ^kwártuni/kwártu<n><sg><obj>$
+[/zi9n5LOrm-FQ]
+[zz83V2iojzQa#0] ^pirésinka/*pirésinka$
+[/zz83V2iojzQa]

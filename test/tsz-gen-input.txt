@@ -1,0 +1,179 @@
+# Aspect
+^atárant’a<v><tv><pres><perf><p3><sg>$
+^kachúku<v><tv><pres><perf><p3><sg>$
+^kweráta<v><iv><pres><dur><p3><sg>$
+^segíri<v><iv><past><perf><p3><sg>$
+^t’iré<v><tv><pres><dur><itg>$
+^t’iré<v><tv><fut><p1>$
+^t’iré<v><tv><fut><p2>$
+^t’iré<v><tv><fut><p3><sg>$
+^t’iré<v><tv><past><perf><p1>$
+^t’iré<v><tv><past><perf><p2>$
+^xanó<v><iv><pres><perf><itg>$
+^xanó<v><iv><pres><perf><p1>$
+^xanó<v><iv><pres><perf><p2>$
+^xanó<v><iv><pres><perf><p3><sg>$
+^xwá<v><tv><pres><perf><p3><sg>$
+^xáma<v><tv><fut><p1>$
+^xáma<v><tv><fut><p2>$
+^intsikurhi<v><tv><fut><p1>$
+^intsikurhi<v><tv><fut><p2>$
+# Case
+^ayxádu<n><sg><obj>$
+^charháku<n><sg><obj>$
+^doktóri<n><sg><obj>$
+^ganádu<n><pl><obj>$
+^kabáyu<n><sg><obj>$
+^korráli<n><sg><obj>$
+^kuchíyu<n><sg><obj>$
+^kurú<n><pl><obj>$
+^káxa<n><sg><obj>$
+^kúchi<n><sg><obj>$
+^maríkwa<n><sg><obj>$
+^sapí<n><sg><obj>$
+^tsakápu<n><sg><obj>$
+^tsúntsu<n><sg><obj>$
+^táa<n><sg><obj>$
+^wíchu<n><sg><obj>$
+^xatsíkwarhikwa<n><sg><obj>$
+^xurámuti<n><sg><obj>$
+^yurhíri<n><sg><obj>$
+^wátsï<n><sg><obj>$
+^María<np><sg><obj>$
+^itsi<n><sg><obj>$
+^tumpí<n><sg><obj>$
+^tsíri<n><sg><obj>$
+^tumína<n><sg><obj>$
+^acháati<n><sg><obj>$
+^wari<n><sg><obj>$
+^kwártu<n><sg><obj>$
+^jurhiata<n><sg><obj>$
+^pirekua<n><sg><obj>$
+^ráma<n><sg><obj>$
+^anátapu<n><sg><obj>$
+^pwérta<n><sg><obj>$
+^kwártu<n><sg><loc>$
+^anátapu<n><sg><loc>$
+# Conditional
+^piré<v><tv><cni><itg>$
+^piré<v><tv><cni><p1>$
+^piré<v><tv><cni><p2>$
+^piré<v><tv><cni><p3>$
+# Preposition
+^jimbo<pr>$
+^para<pr>$
+^xinkóni<pr>$
+# Determinants or Determiners
+^ka<det>$
+^ima<det>$
+^ísï<det>$
+^jima<det>$
+^níjtu<det>$
+^imá<det>$
+^máru<det>$
+# Future
+^piré<v><tv><fut><itg>$
+^piré<v><tv><fut><p1>$
+^piré<v><tv><fut><p2>$
+^piré<v><tv><fut><p3>$
+# Irrealis or Future
+^ni<v><fut><p3><sg>$
+# Mood
+^Atá<v><pres><perf><p1>$
+^Atá<v><pres><perf><p2>$
+^Atá<v><pres><perf><p3><sg>$
+^xanó<v><pres><perf><p1><sg>$
+^xupá<v><pres><perf><p1><sg>$
+# Past Actual
+^piré<v><tv><past><prog><itg>$
+^piré<v><tv><past><prog><p1>$
+^piré<v><tv><past><prog><p2>$
+^piré<v><tv><past><prog><p3>$
+# Past Habitual
+^piré<v><tv><past><hab><itg>$
+^piré<v><tv><past><hab><p1>$
+^piré<v><tv><past><hab><p2>$
+^piré<v><tv><past><hab><p3>$
+# Past Inceptive
+^piré<v><tv><past><incp><itg>$
+^piré<v><tv><past><incp><p1>$
+^piré<v><tv><past><incp><p2>$
+^piré<v><tv><past><incp><p3>$
+# Past Perfect
+^piré<v><tv><past><perf><itg>$
+^piré<v><tv><past><perf><p1>$
+^piré<v><tv><past><perf><p2>$
+^piré<v><tv><past><perf><p3>$
+# Person and Number
+^eró<v><iv><pres><dur><p1>$
+^eró<v><iv><pres><dur><p1><pl>$
+^eró<v><iv><pres><dur><p1><sg>$
+^eró<v><iv><pres><dur><p2>$
+^eró<v><iv><pres><dur><p2><pl>$
+^eró<v><iv><pres><dur><p2><sg>$
+^eró<v><iv><pres><dur><p3><pl>$
+# Plural
+^anátapu<n><pl>$
+^kurú<n><pl>$
+^wari<n><pl>$
+# Present Actual
+^piré<v><tv><pres><prog><itg>$
+^piré<v><tv><pres><prog><p1>$
+^piré<v><tv><pres><prog><p2>$
+^piré<v><tv><pres><prog><p3>$
+# Present Habitual
+^piré<v><tv><pres><hab><itg>$
+^piré<v><tv><pres><hab><p1>$
+^piré<v><tv><pres><hab><p2>$
+^piré<v><tv><pres><hab><p3>$
+# Present Inceptive
+^piré<v><tv><pres><incp><itg>$
+^piré<v><tv><pres><incp><p1>$
+^piré<v><tv><pres><incp><p2>$
+^piré<v><tv><pres><incp><p3><sg>$
+# Present Perfect
+^piré<v><tv><pres><perf><itg>$
+^piré<v><tv><pres><perf><p1>$
+^piré<v><tv><pres><perf><p2>$
+^piré<v><tv><pres><perf><p3><sg>$
+^kwánita<v><iv><pres><perf><p1>$
+^kwánita<v><iv><pres><perf><p2>$
+^íntsku<v><tv><pres><perf><p1>$
+^íntsku<v><tv><pres><perf><p2>$
+^enga<v><tv><pres><p3>$
+^uarhij<v><iv><pres><p1>$
+^uarhij<v><iv><pres><p2>$
+^pójpeni<v><tv><inf>$
+^k’amára<v><tv><pres><perf><p3>$
+^wántiku<v><tv><pres><perf><p3>$
+^xwá<v><tv><pres><perf><p3>$
+^pyá<v><tv><pres><perf><p3>$
+^k’waníra<v><tv><pres><perf><p3>$
+^ewá<v><tv><pres><perf><p1>$
+^kwaká<v><tv><perf><pres><p3>$
+^kurhú<v><tv><perf><pres><p3>$
+^ikía<v><tv><perf><pres><p3>$
+# Roots and Agents
+^piré<n><sg>$
+# Singular
+^anátapu<n><sg>$
+^kurú<n><sg>$
+^wari<n><sg>$
+^xí<prn><sg>$
+^María<np><sg>$
+^Xwánu<np><sg>$
+^Rósa<np><sg>$
+^T’u<prn><sg>$
+^Acháati<n><sg>$
+# Verbs
+^eshé<v><tv><pres><perf><p1>$
+^eshé<v><tv><pres><perf><p2>$
+^eshé<v><tv><pres><perf><p3><sg>$
+^jwá<v><tv><past><perf><p3><sg>$
+^kw’i<v><iv><pres><dur><p1>$
+^kw’i<v><iv><pres><dur><p2>$
+^kw’i<v><iv><perf><pres><p3>$
+# Adjective
+^pimbinhasï<adj>$
+^máteru<adj>$
+^nómeni<adj>$

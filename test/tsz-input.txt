@@ -1,0 +1,179 @@
+# Aspect
+atárant’asti
+kachúkusti
+kwerátaxati
+segírispti
+t’iréxaki
+t’iréaka
+t’iréaka
+t’iréati
+t’iréspka
+t’iréspka
+xanóski
+xanóska
+xanóska
+xanósti
+xwásti
+xámaaka
+xámaaka
+intsikurhiaka
+intsikurhiaka
+# Case
+ayxáduni
+charhákuni
+doktórini
+ganáduni
+kabáyuni
+korrálini
+kuchíyuni
+kurúchani
+káxani
+kúchini
+maríkwani
+sapíni
+tsakápuni
+tsúntsuni
+táarhu
+wíchuni
+xatsíkwarhikwani
+xurámutini
+yurhírini
+wátsïni
+Maríani
+itsini
+tumpíni
+tsírini
+tumínani
+acháatini
+warini
+kwártuni
+jurhiatani
+pirekuani
+rámani
+anátapuni
+pwértani
+kwárturhu
+anátapurhu
+# Conditional
+pirépirini
+pirépiringa
+pirépiringa
+pirépirindi
+# Preposition
+jimbo
+para
+xinkóni
+# Determinants or Determiners
+ka
+ima
+ísï
+jima
+níjtu
+imá
+máru
+# Future
+piréa
+piréskani
+piréaka
+piréati
+# Irrealis or Future
+niati
+# Mood
+Atáska
+Atáska
+Atásti
+xanóskani
+xupáskani
+# Past Actual
+piréxapi
+piréxapka
+piréxapka
+piréxapti
+# Past Habitual
+pirésiambi
+pirésiamka
+pirésiamka
+pirésiamti
+# Past Inceptive
+piréxamambi
+piréxamamga
+piréxamamga
+piréxamampti
+# Past Perfect
+piréspi
+piréspka
+piréspka
+piréspti
+# Person and Number
+eróxaka
+eróxakaksï
+eróxakani
+eróxaka
+eróxakatsï
+eróxakari
+eróxatiksï
+# Plural
+anátapuicha
+kurúcha
+wariecha
+# Present Actual
+piréxaki
+piréxaka
+piréxaka
+piréxati
+# Present Habitual
+pirésini
+pirésinka
+pirésinka
+pirésindi
+# Present Inceptive
+piréxamki
+piréxamka
+piréxamka
+piréxamti
+# Present Perfect
+piréski
+piréska
+piréska
+pirésti
+kwánitaska
+kwánitaska
+íntskuska
+íntskuska
+engaksï
+uarhijka
+uarhijka
+pójpeni
+k’amárasti
+wántikusti
+xwásti
+pyásti
+k’wanírasti
+ewáskani
+kwakásti
+kurhústi
+ikíasti
+# Roots and Agents
+piréri
+# Singular
+anátapu
+kurú
+wari
+xí
+María
+Xwánu
+Rósa
+T’u
+Acháati
+# Verbs
+eshéska
+eshéska
+eshésti
+jwáspti
+kw’ixaka
+kw’ixaka
+kw’isti
+# Adjective
+pimbinhasï
+máteru
+nómeni

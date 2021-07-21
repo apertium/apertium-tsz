@@ -1,0 +1,58 @@
+[6Dz1N0qFIbf9#0] ^ima/ima<det>/imá<det>$
+[/6Dz1N0qFIbf9]
+[6XeQ1hNV9T5B#0] ^segírispti/segíri<v><iv><past><perf><p3><sg>$
+[/6XeQ1hNV9T5B]
+[Ahmg-mJ9CqVB#0] ^kwerátaxati/kweráta<v><iv><pres><dur><p3><sg>$
+[/Ahmg-mJ9CqVB]
+[Bzfio9UcxHSY#0] ^t’iréaka/t’iré<v><tv><fut><p1>/t’iré<v><tv><fut><p2>$
+[/Bzfio9UcxHSY]
+[FI3pxaekTRnl#0] ^p/*p$
+[/FI3pxaekTRnl]
+[FLtyHMmetpFx#0] ^jiájkani/*jiájkani$
+[/FLtyHMmetpFx]
+[GkVT4D1mDVp1#0] ^jimbo/jimbo<pr>$
+[/GkVT4D1mDVp1]
+[Gu_57TBIdC_4#0] ^máteru/máteru<adj>$
+[/Gu_57TBIdC_4]
+[PETD4bi3hEeG#0] ^ma/ma$
+[/PETD4bi3hEeG]
+[PrscmbErd0Y-#0] ^ka/ka<det>$
+[/PrscmbErd0Y-]
+[QKSp_l_VhhsM#0] ^ísï/ísï<det>$
+[/QKSp_l_VhhsM]
+[RJGvPwSLnwXk#0] ^Mariani/*Mariani$
+[/RJGvPwSLnwXk]
+[SZUdiFywu0Xy#0] ^t’iréxaki/t’iré<v><tv><pres><dur><itg>$
+[/SZUdiFywu0Xy]
+[S_VdqK_zPt3_#0] ^tátjembespti/*tátjembespti$
+[/S_VdqK_zPt3_]
+[SgWX8aOK4WJA#0] ^ambe/*ambe$
+[/SgWX8aOK4WJA]
+[UShLxdCurJJB#0] ^jinguni/*jinguni$
+[/UShLxdCurJJB]
+[UeiwvIYgr-CZ#0] ^enga/*enga$
+[/UeiwvIYgr-CZ]
+[W9dYGbwWU6zs#0] ^imeri/*imeri$
+[/W9dYGbwWU6zs]
+[egTz-ok88d3f#0] ^atárant’asti/atárant’a<v><tv><pres><perf><p3><sg>$
+[/egTz-ok88d3f]
+[eigRg6nraUSJ#0] ^jápka/*jápka$
+[/eigRg6nraUSJ]
+[fVf9afONe5SG#0] ^Ka/ka<det>$
+[/fVf9afONe5SG]
+[glTDKakoUPbV#0] ^k/*k$
+[/glTDKakoUPbV]
+[h94Y6Y1r8CR6#0] ^kángorhespti/*kángorhespti$
+[/h94Y6Y1r8CR6]
+[lsj_hCh3DY_1#0] ^kachúkusti/kachúku<v><tv><pres><perf><p3><sg>$
+[/lsj_hCh3DY_1]
+[p1SvJxZrNRns#0] ^Babilonia/Babilonia<np><sg>$
+[/p1SvJxZrNRns]
+[rpeKoQxiiydC#0] ^Jose/Jose<np><sg>$
+[/rpeKoQxiiydC]
+[t6odvZzi10ZL#0] ^jamberi/*jamberi$
+[/t6odvZzi10ZL]
+[vrI_QFcAtd07#0] ^engaksï/enga<v><iv><pres><p1><pl>/enga<v><iv><pres><p3><pl>$
+[/vrI_QFcAtd07]
+[wZ_qhPACG3wT#0] ^uératini/*uératini$
+[/wZ_qhPACG3wT]

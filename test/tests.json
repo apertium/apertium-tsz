@@ -1,0 +1,18 @@
+{
+  "commonwords": {
+    "input": "commonwords-input.txt",
+    "mode": "tsz-morph"
+  },
+  "commonwords-gen": {
+    "input": "commonwords-gen-input.txt",
+    "mode": "tsz-gener"
+  },
+  "tsz": {
+    "input": "tsz-input.txt",
+    "mode": "tsz-morph"
+  },
+  "tsz-gen": {
+    "input": "tsz-gen-input.txt",
+    "mode": "tsz-gener"
+  }
+}
